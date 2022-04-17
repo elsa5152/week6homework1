@@ -16,4 +16,4 @@ This is the detail for week6-homework.
 
 ## Link my homework
 
-[Weather Dashboard](https://elsa5152.github.io/week5homework/)
+[Weather Dashboard](https://elsa5152.github.io/week6homework1/)
